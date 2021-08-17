@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\bin\Debug\UsercontrolEvent.exe.config
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\bin\Debug\UsercontrolEvent.exe
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\bin\Debug\UsercontrolEvent.pdb
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\obj\Debug\UsercontrolEvent.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\obj\Debug\UsercontrolEvent.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\obj\Debug\UsercontrolEvent.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\obj\Debug\UsercontrolEvent.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\obj\Debug\UsercontrolEvent.exe
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\obj\Debug\UsercontrolEvent.pdb
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\bin\Debug\ClassLibrary1.dll
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\bin\Debug\ClassLibrary1.pdb
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\obj\Debug\UsercontrolEvent.Form1.resources
+C:\Users\ADMIN\Desktop\UsercontrolEvent\UsercontrolEvent\obj\Debug\UsercontrolEvent.csproj.CopyComplete

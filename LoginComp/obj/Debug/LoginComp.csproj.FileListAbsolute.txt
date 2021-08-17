@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\UsercontrolEvent\LoginComp\bin\Debug\LoginComp.dll
+C:\Users\ADMIN\Desktop\UsercontrolEvent\LoginComp\bin\Debug\LoginComp.pdb
+C:\Users\ADMIN\Desktop\UsercontrolEvent\LoginComp\obj\Debug\LoginComp.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\UsercontrolEvent\LoginComp\obj\Debug\LoginComp.Login.resources
+C:\Users\ADMIN\Desktop\UsercontrolEvent\LoginComp\obj\Debug\LoginComp.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\UsercontrolEvent\LoginComp\obj\Debug\LoginComp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\UsercontrolEvent\LoginComp\obj\Debug\LoginComp.dll
+C:\Users\ADMIN\Desktop\UsercontrolEvent\LoginComp\obj\Debug\LoginComp.pdb
